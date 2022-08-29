@@ -1,2 +1,2 @@
-# practice
- a preactice repository 
+# README
+This is my first repository!
